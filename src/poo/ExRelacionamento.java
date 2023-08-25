@@ -61,9 +61,7 @@ class Biblioteca {
 	public void removerLivro(Livro livro) {
 		livros.remove(livro);
 	}
-
-// Quando a Biblioteca é destruída, todos os livros dentro dela são destruídos
-// Isto é, a existência de um Livro está vinculada à existência da Biblioteca
+	
 	public void limparBiblioteca() {
 		livros.clear();
 	}
