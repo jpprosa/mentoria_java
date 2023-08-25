@@ -1,0 +1,7 @@
+Definicao: o termo orientação a objetos significa organizar o mundo real como uma coleção de objetos
+que incorporam estrutura de dados e um conjunto de operações que manipulam estes dados.
+
+Abstração: Refere-se ao conceito de esconder a implementação complexa e mostrar apenas as funcionalidades essenciais ao usuário.
+Por exemplo, quando você tem uma classe abstrata que não pode ser instanciada por si só, mas pode ser usada como uma base para outras classes.
+
+Imutabilidade: Refere-se à característica de um objeto que, uma vez criado, não pode ter seu estado alterado.
