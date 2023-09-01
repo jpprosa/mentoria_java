@@ -1,6 +1,6 @@
 package poo;
 
-public class Pessoa {
+class Pessoa {
     private String nome;
 
     public Pessoa(String nome) {
